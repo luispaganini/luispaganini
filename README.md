@@ -19,6 +19,7 @@
   <div style="display: inline-block"><br>
        <img align="center" alt="Fernando-NODEJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
        <img align="center" alt="Fernando-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+       <img align="center" alt="Fernando-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   </div><hr>
 
   <div>
