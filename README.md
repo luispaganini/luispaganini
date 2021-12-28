@@ -1,6 +1,5 @@
 ### Hi there, I'm Luis Fernando 👋
-<hr>
-  
+
   My Knowledge:
   <div style="display: inline-block"><br>
       <img align="center" alt="Fernando-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
