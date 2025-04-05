@@ -3,7 +3,7 @@
 ---
 
 #### About Me
-I'm a software developer with over two years of experience specializing in mobile and web applications. I'm passionate about technology and constantly seeking new challenges to grow my skills.
+I'm a software developer with over three years of experience specializing in mobile and web applications. I'm passionate about technology and constantly seeking new challenges to grow my skills.
 
 ---
 
